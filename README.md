@@ -17,13 +17,13 @@ To write a program to implement the SVM For Spam Mail Detection.
 ```
 /*
 Program to implement the SVM For Spam Mail Detection..
-Developed by: 
-RegisterNumber:  
+Developed by: Aman Singh
+RegisterNumber: 212224040020
 */
 ```
 
 ## Output:
-![SVM For Spam Mail Detection](sam.png)
+
 
 
 ## Result:
